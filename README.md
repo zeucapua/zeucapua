@@ -24,6 +24,7 @@
 
   <div>
     <h3>Tech I code with</h3>
+    <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-F05032?style=flat-square&logo=svelte&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-007ACC?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -35,6 +36,7 @@
     <img alt="Railway" src="https://img.shields.io/badge/-Railway-000?style=flat-square&logo=railway&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-43853d?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="Prisma ORM" src="https://img.shields.io/badge/-PrismaORM-45b8d8?style=flat-square&logo=prisma&logoColor=white" />
+    <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-43853d?style=flat-square&logo=neovim&logoColor=white" />
 
   </div>
 
